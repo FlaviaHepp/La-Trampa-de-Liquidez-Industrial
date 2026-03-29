@@ -73,3 +73,58 @@ Es una señal de riesgo estructural, que debe combinarse con:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+⚠️📉 **Cuando la liquidez desaparece… pero la tendencia se fortalece**
+
+Hay señales que no aparecen en el precio…
+pero pueden ser incluso más peligrosas.
+
+👉 Analicé un patrón que llamo **“trampa de liquidez”** a nivel industrial:
+
+* 📉 Volumen en caída (menos participación)
+* 📈 ADX alto (>30) → tendencia fuerte
+
+💡 **Insight clave:**
+Cuando una tendencia se fortalece mientras la liquidez cae, el mercado se vuelve **frágil**.
+Y eso puede desencadenar movimientos violentos por falta de contrapartida.
+
+---
+
+📊 **¿Qué medí?**
+
+* Fuerza de tendencia (ADX promedio por industria)
+* Cambio en volumen reciente vs. histórico
+* Identificación de industrias con:
+
+  * Tendencias fuertes
+  * Volumen decreciente
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* Alta tendencia + baja liquidez → mercado “vacío”
+* Menos participantes → mayor impacto por orden
+* Mayor probabilidad de:
+
+  * Slippage
+  * Movimientos bruscos
+  * Rupturas desordenadas
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque afecta directamente la ejecución:
+
+* Estrategias pueden parecer rentables… pero no ejecutables
+* Riesgo oculto en posiciones grandes
+* Importante para fondos e institucionales
+
+---
+
+📌 Pregunta para la comunidad:
+¿Alguna vez una estrategia falló no por la señal… sino por la falta de liquidez?
+
+#QuantFinance #Trading #DataScience #MarketMicrostructure #Liquidity #RiskManagement #Alpha #Analytics
